@@ -17,6 +17,11 @@ body{
     margin-left: 90%;
     margin-top: 10px;
 }
+.voltar{
+      height: 35px;
+      margin-right: 5%;
+      margin-top: 10px;
+  }
 .logo{
     margin: 9%;
     position: relative;
