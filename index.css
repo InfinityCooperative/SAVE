@@ -3,7 +3,7 @@ body{
     text-align: center;
     box-sizing: border-box;
 }
-.cabeçalho{
+.cabecalho{
     margin: -15px -7px -15px -8px;
     background: rgb(205, 205, 205);
     border-width: 0.7px;
@@ -56,15 +56,19 @@ body{
 }
 .atendimento{
     height: 100px;
+    margin: 0px 0px 0px -250px;
 }
 .clivenexp{
     width: 100px;
+    margin: 0px 0px 0px -90px;
 }
 .e{
     padding-top: 5px;
     height: 27px;
+    margin:0px 0px 0px -90px;
 }
 .inf{
     padding: 5px;
     height: 15px;
+    margin: -20px 0px 0px -65px;
 }
