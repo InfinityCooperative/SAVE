@@ -25,9 +25,7 @@ body{
     height: 250px;
 }
 .form{
-    margin: 17px 149px 15px 151px;
-    border-width: 0.7px;
-    border-radius: 10px;
+    margin: 0px 150px 0px 150px;
     background: darkgrey;
 }
 .botaoenv:hover{
