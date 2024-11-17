@@ -8,32 +8,35 @@ body{
     background: rgb(205, 205, 205);
     border-width: 0.7px;
     border-color: #000;
-    height: auto;
+    margin: -5% 0% 0% 0%;
 }
 .voltar{
-    height: 35px;
-    margin:3% 0% 0% -93%;
+    height: 30px;
+    margin: 5% 0% 0% -85%;
 }
 .bandeira{
     position: absolute;
-    margin: -125px 0% 0% 34%;
+    margin: -107px 0% 0% 32%;
     height: 80px;
     transition: 1s;
 }
 .bandeira:hover{
     position: absolute;
-    margin: -85px 0% 0% 34%;
+    margin: -65px 0% 0% 32%;
     height: 80px;
     transition: 1s;
 }
 .logo{
     margin: 9%;
     position: relative;
-    height: 250px;
+    height: 150px;
 }
 .form{
-    margin: 0px 150px 0px 150px;
+    margin: 11px 19px 11px 19px;
     background: darkgrey;
+}
+input.botaoenv {
+    margin: 20px;
 }
 .botaoenv:hover{
     background-color: rgb(92, 255, 155);
